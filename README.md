@@ -59,17 +59,17 @@ The top-ranked regions differed by burden indicator. High-income North America s
 | Indicator  | Location                   | ASR (95% uncertainty interval) | AAPC (95% confidence interval) |
 | ---------- | -------------------------- | -----------------------------: | -----------------------------: |
 | Incidence  | High-income North America  |      1403.64 (1137.64–1766.66) |       -0.017 (-0.221 to 0.187) |
-| Incidence  | Caribbean                  |      1193.84 (1000.88–1445.97) |     -0.282 (-0.309 to -0.256)* |
-| Incidence  | Central Europe             |        898.73 (725.29–1136.93) |        0.034 (-0.076 to 0.144) |
+|   | Caribbean                  |      1193.84 (1000.88–1445.97) |     -0.282 (-0.309 to -0.256)* |
+|   | Central Europe             |        898.73 (725.29–1136.93) |        0.034 (-0.076 to 0.144) |
 | Prevalence | High-income North America  |     9717.74 (8485.10–11226.93) |        0.088 (-0.014 to 0.191) |
-| Prevalence | Australasia                |      7747.21 (6479.30–9107.51) |     -1.652 (-1.784 to -1.519)* |
-| Prevalence | Caribbean                  |      7638.48 (6722.22–8563.44) |     -0.624 (-0.688 to -0.559)* |
+|  | Australasia                |      7747.21 (6479.30–9107.51) |     -1.652 (-1.784 to -1.519)* |
+|  | Caribbean                  |      7638.48 (6722.22–8563.44) |     -0.624 (-0.688 to -0.559)* |
 | Deaths     | Oceania                    |            33.98 (24.05–51.08) |     -1.027 (-1.075 to -0.979)* |
-| Deaths     | South Asia                 |            17.68 (12.55–26.32) |     -1.352 (-1.880 to -0.822)* |
-| Deaths     | Central Sub-Saharan Africa |             15.79 (8.99–37.27) |     -1.210 (-1.306 to -1.114)* |
+|      | South Asia                 |            17.68 (12.55–26.32) |     -1.352 (-1.880 to -0.822)* |
+|      | Central Sub-Saharan Africa |             15.79 (8.99–37.27) |     -1.210 (-1.306 to -1.114)* |
 | DALYs      | Oceania                    |        847.59 (626.75–1212.54) |     -1.157 (-1.224 to -1.089)* |
-| DALYs      | Central Sub-Saharan Africa |         491.68 (337.41–909.34) |     -1.484 (-1.588 to -1.380)* |
-| DALYs      | Caribbean                  |         468.60 (349.60–628.75) |     -1.038 (-1.145 to -0.930)* |
+|       | Central Sub-Saharan Africa |         491.68 (337.41–909.34) |     -1.484 (-1.588 to -1.380)* |
+|       | Caribbean                  |         468.60 (349.60–628.75) |     -1.038 (-1.145 to -0.930)* |
 
 * Statistically significant AAPC.
 
@@ -90,15 +90,15 @@ Although the global age-standardized burden declined overall, several countries 
 | Indicator | Location                 | AAPC (95% confidence interval) |
 | --------- | ------------------------ | -----------------------------: |
 | ASIR      | Oman                     |            0.317 (0.245–0.388) |
-| ASIR      | Poland                   |            0.284 (0.187–0.381) |
-| ASIR      | Barbados                 |            0.256 (0.164–0.347) |
-| ASIR      | Saudi Arabia             |            0.111 (0.043–0.180) |
-| ASIR      | Bermuda                  |            0.084 (0.054–0.114) |
+|       | Poland                   |            0.284 (0.187–0.381) |
+|       | Barbados                 |            0.256 (0.164–0.347) |
+|       | Saudi Arabia             |            0.111 (0.043–0.180) |
+|       | Bermuda                  |            0.084 (0.054–0.114) |
 | ASPR      | Oman                     |            0.138 (0.061–0.216) |
-| ASPR      | United States of America |            0.155 (0.069–0.241) |
+|       | United States of America |            0.155 (0.069–0.241) |
 | ASMR      | Zimbabwe                 |            0.396 (0.033–0.760) |
 | ASDR      | Zimbabwe                 |            0.567 (0.309–0.825) |
-| ASDR      | Lesotho                  |            0.351 (0.146–0.557) |
+|       | Lesotho                  |            0.351 (0.146–0.557) |
 
 ### Results interpretation
 
